@@ -1,0 +1,6 @@
+[submodule "submodules/industreallib"]
+	path = submodules/industreallib
+	url = https://github.com/NVlabs/industreallib.git
+[submodule "submodules/industrealkit"]
+	path = submodules/industrealkit
+	url = https://github.com/NVlabs/industrealkit.git
